@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/Loyalsoldier/clash-rules",
-  "upstream_commit": "e77076974f562af7e43d61d6114eba815f0a9b6a",
+  "upstream_commit": "d282e2e44d2c71f562d56276dc4aa603a8b110f8",
   "sing_box_version": "1.14.1",
   "format_version": 2,
   "converter_sha256": "24c78d41dedb5f6a46ae99c6b20fe0ff5cf02fe9d19c14a081b60056abcc99e9",
@@ -48,11 +48,11 @@
       "srs_sha256": "bea1ede6f0b740740a31ecaa71130bb1401e05e8631907d9741c832feb428b7b"
     },
     "greatfire": {
-      "input_count": 10,
-      "output_count": 10,
-      "source_sha256": "2326b488fcf17ce52091cc6b9290d5eae0c6e5349e3edbb39e5230e5e57917cd",
-      "json_sha256": "0b6697566947e11ca01f734221397e742373e7194eb6a97540cbc9c590ce9190",
-      "srs_sha256": "ce31dfa6fb76d485d0efdc9469b88a9e1d3d8e01cf58ab896b3006da9aad935e"
+      "input_count": 11,
+      "output_count": 11,
+      "source_sha256": "8a12d20e2da723146e5d84756f09362848abd3ef596ba6a03eae6b188075a4b6",
+      "json_sha256": "080d72d60e44a9a7375b54fc8f16a53abf8b395f00f3cfd484c85815e959bde0",
+      "srs_sha256": "8688a75c212ff3513d35f8d93ce15747801b1125073d8155371c17717617da7c"
     },
     "icloud": {
       "input_count": 53,
@@ -76,18 +76,18 @@
       "srs_sha256": "bdd0241ceb2f12093e29cb3056ce9b94f9d4cbb656f0480e8377b67b355349ff"
     },
     "proxy": {
-      "input_count": 27110,
-      "output_count": 27110,
-      "source_sha256": "249df96c002b0367a0fb7aedb2c811ba8c2183d022a0a3d348541dd5e987ff7e",
-      "json_sha256": "d7975d91e8effc732249524f0ecd79ae7975a5fe696d9a7e8fad6f528a6ace1c",
-      "srs_sha256": "27acca2f85414aa3bb9d161bf8aa71b9b4ff376f35b346c3973fca4b2c385d36"
+      "input_count": 27111,
+      "output_count": 27111,
+      "source_sha256": "d67290a7dcb10383c98ebc48b8ec38bc9fbc5167478e9057f10ae5b0571478d9",
+      "json_sha256": "fa852b97680e25bc96b638efe7b45c48d2b8a6b1f8d96e2b32a2c9f6c1ddf051",
+      "srs_sha256": "38db60fbaf83c1f34d3b31993e3f666f4c56d79dc55cb7060f46a86806c72ddb"
     },
     "reject": {
-      "input_count": 187102,
-      "output_count": 187102,
-      "source_sha256": "942f9c79a283fca64c434b3fab0a9686410020d199ba9e8004b42b4e63994302",
-      "json_sha256": "ac12b03536626442f5a9cdf13656f773aa694ec015edc8518342c88d30c17a01",
-      "srs_sha256": "5a469553790f0306a02ce9e8f37b946e5e7b772f19a73056a85c33731d4cd459"
+      "input_count": 187402,
+      "output_count": 187402,
+      "source_sha256": "ccb322c1629cc2adb58ceb242fef66e6071fae5935202ea710929b0f60409b1e",
+      "json_sha256": "b0156f86d81f9439a64d6b0eaa0b4be696c6f9551086c4c61929e8c4f5c7678e",
+      "srs_sha256": "126523c5cbafb370a403c8542ab438dbd8a63dbf199c8d488eaf789432bdf2ee"
     },
     "telegramcidr": {
       "input_count": 12,
