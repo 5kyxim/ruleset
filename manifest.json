@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/Loyalsoldier/clash-rules",
-  "upstream_commit": "d282e2e44d2c71f562d56276dc4aa603a8b110f8",
+  "upstream_commit": "16ede5ec4eb51ce9f242a4b569a3a6073deb03f2",
   "sing_box_version": "1.14.1",
   "format_version": 2,
   "converter_sha256": "24c78d41dedb5f6a46ae99c6b20fe0ff5cf02fe9d19c14a081b60056abcc99e9",
@@ -83,11 +83,11 @@
       "srs_sha256": "38db60fbaf83c1f34d3b31993e3f666f4c56d79dc55cb7060f46a86806c72ddb"
     },
     "reject": {
-      "input_count": 187402,
-      "output_count": 187402,
-      "source_sha256": "ccb322c1629cc2adb58ceb242fef66e6071fae5935202ea710929b0f60409b1e",
-      "json_sha256": "b0156f86d81f9439a64d6b0eaa0b4be696c6f9551086c4c61929e8c4f5c7678e",
-      "srs_sha256": "126523c5cbafb370a403c8542ab438dbd8a63dbf199c8d488eaf789432bdf2ee"
+      "input_count": 187715,
+      "output_count": 187715,
+      "source_sha256": "b1896bf0ec54cc22efb6eb07febcb9b83331baf5c12482f95c5e4079b264f58d",
+      "json_sha256": "590c57051e44a5f2bfa28193c097782c613d9c58c359dc61a0d7e60b83ed5e2e",
+      "srs_sha256": "5c05659a518ff2eb88411bb86bed6269edb63189ec0a319ec4968e7446f10e49"
     },
     "telegramcidr": {
       "input_count": 12,
