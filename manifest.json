@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/Loyalsoldier/clash-rules",
-  "upstream_commit": "430d8ba3689e1c5e968c4625630f32dac2c77cef",
+  "upstream_commit": "64a3402681e517f9aa0d805be9c5c22cc291f109",
   "sing_box_version": "1.14.1",
   "format_version": 2,
   "converter_sha256": "24c78d41dedb5f6a46ae99c6b20fe0ff5cf02fe9d19c14a081b60056abcc99e9",
@@ -20,11 +20,11 @@
       "srs_sha256": "773b6e748657829e8d5fcb5d952960fba44d6d597b32ebcc0f4fc73e0c646799"
     },
     "cncidr": {
-      "input_count": 10011,
-      "output_count": 10011,
-      "source_sha256": "ce5122e6bb0e0a3a0738b34d6aebfdf6b521ad22b689b46149ae19249bfca0b3",
-      "json_sha256": "09bf4ff67577296dd1edc297552ab88d1cbe66912eac739bdfcb5ec67716a3c1",
-      "srs_sha256": "3484c3dd91f735c1c9b9d4f0e85a62d435fe558d3507660c06bad52f7d49ad8c"
+      "input_count": 10012,
+      "output_count": 10012,
+      "source_sha256": "d260e0a85238bf8b103b5cf40737af804c291dc2d75fa3505a0f82ac6ebbc5df",
+      "json_sha256": "0a828fdbf468bee3a75c98fe1fa3a564c3eb12c3d4a9b012fbff7d62a086a5ec",
+      "srs_sha256": "e16735139f93f7ba6716f712ae1ef73201f6f510fb2760646f5c4c8fb8f742da"
     },
     "direct": {
       "input_count": 110560,
@@ -83,11 +83,11 @@
       "srs_sha256": "766cf04255a4a05d3b1fafc7afcb24c0f2765ce6031d42450561ae84e345fbe7"
     },
     "reject": {
-      "input_count": 193916,
-      "output_count": 193916,
-      "source_sha256": "e1cfa839b588a423b04df992c5bad8524a392df0ccb3bd4a9f020b31d33de9c6",
-      "json_sha256": "02321ea9eed4a5992093874af6e9a4c5092e6b2cbb006f54d8d1fd3d76be2d6f",
-      "srs_sha256": "ffd73e7c50a42e606b0cd3dbdd83f09363a7c5125644e2d190aab4ee7d8118c5"
+      "input_count": 194282,
+      "output_count": 194282,
+      "source_sha256": "90735a06197fa56a1867ea7cb9efc1cd0abe861613737cd335c56e404c1e0f9c",
+      "json_sha256": "ef1f541e218b3465559f31590b50b2bb7123075958ffbbfc3c8602e136d33bc6",
+      "srs_sha256": "1987f82d10cf644d80664b864b54a835cd1bd674fd6ba5ef010f8f3520168b81"
     },
     "telegramcidr": {
       "input_count": 12,
