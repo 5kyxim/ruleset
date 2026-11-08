@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/Loyalsoldier/clash-rules",
-  "upstream_commit": "281d74e171ba5758d9705c728683190978e4ebaa",
+  "upstream_commit": "d3fcb79842bc6659eea5e55c569b72f7d5f395ad",
   "sing_box_version": "1.14.1",
   "format_version": 2,
   "converter_sha256": "24c78d41dedb5f6a46ae99c6b20fe0ff5cf02fe9d19c14a081b60056abcc99e9",
@@ -76,18 +76,18 @@
       "srs_sha256": "23951153c8d241d6636b192e835f6c2c01d9cddcfd12448134a52df82a60607b"
     },
     "proxy": {
-      "input_count": 27342,
-      "output_count": 27342,
-      "source_sha256": "7067d244b2e27b75a69fe0b46bd78f29a15c421c64f7183585985604013a68f5",
-      "json_sha256": "7b47e7bd0d825a2da7b1d9989c49f68d1b9c5ee69715ebaf392f103218d69879",
-      "srs_sha256": "81499e52b65f53e39f4313e9a4e94aedb91af64f9974bd81c32bad5e14056416"
+      "input_count": 27346,
+      "output_count": 27346,
+      "source_sha256": "2a380eebb7302aba7686d88a8d9d4d580680a607b5af1c3c528cdd612df85c65",
+      "json_sha256": "a887495518f02e4ae6d81570bfaf3e5a03af74053957e47c44525295ef189ced",
+      "srs_sha256": "a1f5063466e4b1b0d17bcc40856e75968478d4c3194fd6622d1fc3e1e426dcae"
     },
     "reject": {
-      "input_count": 199133,
-      "output_count": 199133,
-      "source_sha256": "e0402e25ab476b08696197c01437481255212111afdacc429d85d8b87d7c1e32",
-      "json_sha256": "9a89eb926f766ab6ee11fa8c45c836efcf20ed0868a8498caf0e80dd25540df9",
-      "srs_sha256": "e38de72ddd9a35d9ae96978c54b5dcace1634065991229519671897617e1710b"
+      "input_count": 199451,
+      "output_count": 199451,
+      "source_sha256": "0a80d63cc7a2bc2b731db3a1456f254b30f89a72fe637f2222cabb61b032538b",
+      "json_sha256": "bfd4bf8f1e3030873bcd94e0c6be45d96c9b0604f42c0d3b2a4cc1770035c238",
+      "srs_sha256": "1a4a25de380e71e0cbe73b8c93db90373573dab54372463a9b65cb66acb67597"
     },
     "telegramcidr": {
       "input_count": 12,
@@ -99,7 +99,7 @@
     "tld-not-cn": {
       "input_count": 829,
       "output_count": 829,
-      "source_sha256": "67ada67716332c39e0afea361dd4b2ad66f55d0a92d3d1b90a7a1d4d47283f62",
+      "source_sha256": "330816293887779168d577a95f606c33702322654249e4c00051a3827830e310",
       "json_sha256": "1df3c5fd97b21eb8ccab0aa0ab4e50261290dae29c6ab61da0988800181b6404",
       "srs_sha256": "ce9bfd6a604a71613c8b3ad52f88b7dfa0a2843daa675fd9f9b9b7bbfabad4b8"
     }
