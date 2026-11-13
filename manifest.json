@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/Loyalsoldier/clash-rules",
-  "upstream_commit": "481323e105230c87a202a30621fc6ecbbf8b1fe9",
+  "upstream_commit": "1090618ce522dc2694abef3526244b5bdc31702a",
   "sing_box_version": "1.14.1",
   "format_version": 2,
   "converter_sha256": "24c78d41dedb5f6a46ae99c6b20fe0ff5cf02fe9d19c14a081b60056abcc99e9",
@@ -20,11 +20,11 @@
       "srs_sha256": "773b6e748657829e8d5fcb5d952960fba44d6d597b32ebcc0f4fc73e0c646799"
     },
     "cncidr": {
-      "input_count": 9647,
-      "output_count": 9647,
-      "source_sha256": "c6342a2cff04a64e291c31c4052d914a6a8eeafd71793d25d7c64bb49c2e4aad",
-      "json_sha256": "1e1a82b86699b6d553f89b78a2e906a900eb089c8d3a8d72995bac2dbed16ee3",
-      "srs_sha256": "745855556173193245ea6f895f57b39b17d0f35a327a2676e0842193ba35de5a"
+      "input_count": 9640,
+      "output_count": 9640,
+      "source_sha256": "d3ace7ab9e2eef0796946c7876aa484741a61a9820de746b04e1ce09588e50df",
+      "json_sha256": "d335e3d933a71d42e9a3ed4ae54483760eabec841154715d6b4578e151f92062",
+      "srs_sha256": "351555dcb484bd0a9b7a53de9bd3688109fb83495ab215460fc01b8dd3d7de89"
     },
     "direct": {
       "input_count": 110189,
@@ -83,11 +83,11 @@
       "srs_sha256": "7b9ba70731508f092015e89b4d17ce6f04555f2f209640ed4c97aa383c8161e1"
     },
     "reject": {
-      "input_count": 199528,
-      "output_count": 199528,
-      "source_sha256": "d4754917a6b74f45be54a05824a5f58a487e30ba7c832bcaf87ea40032069238",
-      "json_sha256": "a20e76ab58173568287ced30f5485599d472ea452067172607a61e91f091bc1d",
-      "srs_sha256": "9d692db4fd34c65a6eda1fae4db763b3895a65e4d637766f8bac9627eba069be"
+      "input_count": 199928,
+      "output_count": 199928,
+      "source_sha256": "7802c81809f656f10059c0d9a17a048e3f90e952d9c3bb5e0cac4ac2e948edfe",
+      "json_sha256": "d380f3b683ef8bf6e57cf2d55c5ba90a5c31596f4fc7f0e3034b56cd957bea43",
+      "srs_sha256": "5a759997bd2fab1e73ab21f8263ad1bbb73b52a8da76cdf6867f1ed679ba5269"
     },
     "telegramcidr": {
       "input_count": 12,
