@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/Loyalsoldier/clash-rules",
-  "upstream_commit": "f67179385329f4c2c859ce56924f8a92fa7785a8",
+  "upstream_commit": "db6401de907f650714eef2927a2515192063f9b1",
   "sing_box_version": "1.14.1",
   "format_version": 2,
   "converter_sha256": "24c78d41dedb5f6a46ae99c6b20fe0ff5cf02fe9d19c14a081b60056abcc99e9",
@@ -27,11 +27,11 @@
       "srs_sha256": "351555dcb484bd0a9b7a53de9bd3688109fb83495ab215460fc01b8dd3d7de89"
     },
     "direct": {
-      "input_count": 110288,
-      "output_count": 110224,
-      "source_sha256": "80df6b0a3d0826079b6f18a4284c66c1d3a37c251f26e9915721414280890819",
-      "json_sha256": "c1358d029cad41fd5f16eb695728c15198cc6a123cd16dd609363b3552fc81ce",
-      "srs_sha256": "2c4d7faeea79e6e89b66bc7524b571c6b83493e1159b736cc0e18166f50dc962"
+      "input_count": 110239,
+      "output_count": 110175,
+      "source_sha256": "4912af85f480d65a79734c72235bd451e71cc394f7f2979b556ad584e7711fe8",
+      "json_sha256": "58849af0c7c848d439571eafee68027c59b7fe5ac7d6556cb3d7d3d65a8566f3",
+      "srs_sha256": "3bfa51d32a87a1ad22dce278666be0a4da747ecc93d2882b12edbf7f31aaa5e7"
     },
     "gfw": {
       "input_count": 4453,
@@ -83,11 +83,11 @@
       "srs_sha256": "5c954abffbd731d02f1ddc237de1042ebfda108b0b75bafcb414d38236708f05"
     },
     "reject": {
-      "input_count": 200344,
-      "output_count": 200344,
-      "source_sha256": "ace895f4b48fb8b9ff75a94478dc6ecc43de0b1a9c828746dd4c8b9bfe460664",
-      "json_sha256": "be54d47360551c9cc525e64610010ea50d4a78f82c78692d88ad01ac3f2bf436",
-      "srs_sha256": "5bc2a9f6953737bacf4432b57335e0cb59b0886c56bc0f3125bef0d8a0025e89"
+      "input_count": 200708,
+      "output_count": 200708,
+      "source_sha256": "0770de2bf36acce9d08443642c1e4f25f936e7b44c6c78b03a80320cdf3ba136",
+      "json_sha256": "a23aca52272864242e96cef58ed7b2d122cdc3d6c9c96b1bffcb2712554de2d2",
+      "srs_sha256": "430a8ef7a221eeca4519a9816f42b85aea6a089d59283da493a040cf3778c9fc"
     },
     "telegramcidr": {
       "input_count": 12,
