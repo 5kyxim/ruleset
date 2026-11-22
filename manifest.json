@@ -1,6 +1,6 @@
 {
   "upstream": "https://github.com/Loyalsoldier/clash-rules",
-  "upstream_commit": "1aa9d915f68b8c9cd79c0b6d3e22a101c83c22f2",
+  "upstream_commit": "9c0a986e7a8251788f6d8470111bec5559c4a39a",
   "sing_box_version": "1.14.1",
   "format_version": 2,
   "converter_sha256": "24c78d41dedb5f6a46ae99c6b20fe0ff5cf02fe9d19c14a081b60056abcc99e9",
@@ -20,25 +20,25 @@
       "srs_sha256": "773b6e748657829e8d5fcb5d952960fba44d6d597b32ebcc0f4fc73e0c646799"
     },
     "cncidr": {
-      "input_count": 9640,
-      "output_count": 9640,
-      "source_sha256": "d3ace7ab9e2eef0796946c7876aa484741a61a9820de746b04e1ce09588e50df",
-      "json_sha256": "d335e3d933a71d42e9a3ed4ae54483760eabec841154715d6b4578e151f92062",
-      "srs_sha256": "351555dcb484bd0a9b7a53de9bd3688109fb83495ab215460fc01b8dd3d7de89"
+      "input_count": 9665,
+      "output_count": 9665,
+      "source_sha256": "d05824d2037919e572ca7c6cec81e2568181795f4197c19cc6199b2a51a0fc97",
+      "json_sha256": "9df2a2b67c50396d39c205a585817def25fd67f36ce57de6deaeb7465bac0756",
+      "srs_sha256": "ad50a548317f437035735ea9aa117ff5c54f51124d9565a14629c7c0a34db918"
     },
     "direct": {
-      "input_count": 110247,
-      "output_count": 110183,
-      "source_sha256": "dfd64ace84a824ff520d8c442979213ccc794b00eb353c523627c437264c9997",
-      "json_sha256": "826a4a219f0a82523e997f0016a4426dc15002b382a685f99ce0440d7761c784",
-      "srs_sha256": "ad8fd1ff3f113953c278d2e1efdfa2cbac943faa3cc1275203fd26aa0642e578"
+      "input_count": 110250,
+      "output_count": 110186,
+      "source_sha256": "90575b69cf5f8acd8aa70ddeb9752fbbc170c81d525a920b023a7049e94967b6",
+      "json_sha256": "3e4be90de71cf1703e55adddba4606a4a0171294fccc35ebad5e97ef4d56370e",
+      "srs_sha256": "782c68dad781ef8b5e6c6eb49ccd056e26a007eb5d2c809de60383900f6680fb"
     },
     "gfw": {
-      "input_count": 4453,
-      "output_count": 4453,
-      "source_sha256": "3196009dbb1619722c05b791cab8d40dc1f6252d0be5273ac00a985c8ebb542d",
-      "json_sha256": "64da0a0541aaa0f99081f0eefd554322787a5249f28538c67f4b626b46bcde3c",
-      "srs_sha256": "45fac0dbb876e5c4c3f878578a7f2379201b4a75b39a25767daab4f077df6011"
+      "input_count": 4481,
+      "output_count": 4481,
+      "source_sha256": "7ad989b7370ca5f0c1c58477f8c075dbd10f3e02e02513c5cc91c568ad3a5730",
+      "json_sha256": "5d55d925f413809e8d1501b753f9a260fab6d7d3a75ae8db9b92bd91d8fa12bf",
+      "srs_sha256": "6de34db0649d6d48d4223d9b9caa8f3b57ed90043e99a54f629800be18dcc39e"
     },
     "google": {
       "input_count": 112,
@@ -76,18 +76,18 @@
       "srs_sha256": "23951153c8d241d6636b192e835f6c2c01d9cddcfd12448134a52df82a60607b"
     },
     "proxy": {
-      "input_count": 27359,
-      "output_count": 27359,
-      "source_sha256": "08fb43666b670cd810ee30e28443940de5a97841ae8b352ee7f51ee7118e427b",
-      "json_sha256": "f1d4e38b33ec203ef6885bac6480c19b97eff4b18d39d3614f1487c7c91d7fd7",
-      "srs_sha256": "2b85c1cc5937f4994351df519b8184f5ce293e3bc533b0c2e019ff90e0f49b0e"
+      "input_count": 27271,
+      "output_count": 27271,
+      "source_sha256": "317b5c8d9668f55e11deee592e825a07284d8dfcc9cdd89c3a992d6121b11f10",
+      "json_sha256": "75ab71af0e34c15ddd6a26b3bfbb4e0822825f2658e099237feee28a16e15095",
+      "srs_sha256": "4d801c602230c5b8f928f4c8612671cc205732d717597ee885bc2516269ce051"
     },
     "reject": {
-      "input_count": 200374,
-      "output_count": 200374,
-      "source_sha256": "9c80c57a514ac9c5a64fca06a2afea23c4753169f65142c5675a0853e8c8b883",
-      "json_sha256": "c6afbaf9c9f52e781fd8c3187e32187c7454ae244c1e4e4d744f8ddb2580e5b3",
-      "srs_sha256": "57256c2b084ee7e85f19311e2a6c3d6f5ca2d95b9756acc3ffd82e925945ec3d"
+      "input_count": 201160,
+      "output_count": 201160,
+      "source_sha256": "7dd0ba0adf84bbb1d6c2096102582e708e699edd420426d7826a4e69fa82a6d5",
+      "json_sha256": "79408f50135402eb3c16ce928c4ec6d83b88aa3d89b3884dda8196652d7d64a8",
+      "srs_sha256": "2bf5a1aef5a5a608dbd05b6c855a9da08151ed1b7a9ca7ec0066249cd6027370"
     },
     "telegramcidr": {
       "input_count": 12,
@@ -99,7 +99,7 @@
     "tld-not-cn": {
       "input_count": 829,
       "output_count": 829,
-      "source_sha256": "330816293887779168d577a95f606c33702322654249e4c00051a3827830e310",
+      "source_sha256": "67ada67716332c39e0afea361dd4b2ad66f55d0a92d3d1b90a7a1d4d47283f62",
       "json_sha256": "1df3c5fd97b21eb8ccab0aa0ab4e50261290dae29c6ab61da0988800181b6404",
       "srs_sha256": "ce9bfd6a604a71613c8b3ad52f88b7dfa0a2843daa675fd9f9b9b7bbfabad4b8"
     }
